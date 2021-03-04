@@ -1,0 +1,4 @@
+max31855.c:11:6:max31855_init	8	static
+max31855.c:16:15:SelSensor2	16	static
+max31855.c:46:16:max31855_readbits	40	static
+max31855.c:75:7:max31855_readTemp	24	static

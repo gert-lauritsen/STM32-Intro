@@ -1,0 +1,4 @@
+max6675.c:6:6:max6675_init	8	static
+max6675.c:11:15:SelSensor	16	static
+max6675.c:41:19:max6675_readbits	40	static
+max6675.c:61:7:max6675_readTemp	32	static

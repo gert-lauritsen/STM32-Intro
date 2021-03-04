@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Templogger-rescue)(type Legacy)(uri ${KIPRJMOD}/Templogger-rescue.lib)(options "")(descr ""))
+)

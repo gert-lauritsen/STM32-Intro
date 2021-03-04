@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Batmonitor-rescue)(type Legacy)(uri ${KIPRJMOD}/Batmonitor-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+Communication.c:29:6:initCom1	8	static
+Communication.c:37:9:crc8	24	static
+Communication.c:45:6:TxRawframe	32	static
+Communication.c:62:13:Uart_Handler	32	static
+Communication.c:94:6:USART_IrqHandler	24	static
