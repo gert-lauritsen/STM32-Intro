@@ -10,3 +10,7 @@ Agenda
 + ADC
 + USB
 
+Eksemple 1 er en batterimåler, som vi bruger til at vise ADC og timer
+Eksemple 2 er en temperaturlogger, som bruges til at demo USB og SPI
+
+Det hele kan følges online på [YOUTUBE](https://youtu.be/fi9owjvGuBo) og Zoom
