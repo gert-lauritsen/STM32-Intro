@@ -16,4 +16,4 @@ Eksemple 2 er en temperaturlogger, som bruges til at demo USB og SPI
 
 Udviklingsværktøjet er [STM32CUBEIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 
-Det hele kan følges online på [YOUTUBE](https://youtu.be/fi9owjvGuBo) og Zoom
+Det hele kan følges online på [YOUTUBE](https://youtu.be/U5xcWw9ncK8) og Zoom
